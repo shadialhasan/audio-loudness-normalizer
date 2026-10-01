@@ -1,5 +1,6 @@
 # 🎚️ audio-loudness-normalizer
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/audio-loudness-normalizer/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Standard: EBU R128](https://img.shields.io/badge/Standard-EBU%20R128%20%7C%20ITU%20BS.1770-brightgreen.svg)](https://github.com/MobileConduit)
 [![CI/CD Pipeline](https://github.com/MobileConduit/audio-loudness-normalizer/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/audio-loudness-normalizer/actions)
@@ -78,7 +79,17 @@ cp .env.example .env
 }
 ```
 
-### 3. Usage Examples
+#---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/audio-loudness-normalizer.git
+cd audio-loudness-normalizer
+pip install -r requirements.txt
+```
+
+## 3. Usage Examples
 
 **Standard EBU R128 Broadcast Normalization (-23 LUFS):**
 ```bash
