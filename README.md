@@ -1,5 +1,8 @@
 # 🎚️ audio-loudness-normalizer
 
+> **Topics:** `ebu-r128` `loudness-normalization` `ffmpeg` `broadcast-audio` `audio-engineering` `lufs` `true-peak`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/audio-loudness-normalizer/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Standard: EBU R128](https://img.shields.io/badge/Standard-EBU%20R128%20%7C%20ITU%20BS.1770-brightgreen.svg)](https://github.com/MobileConduit)

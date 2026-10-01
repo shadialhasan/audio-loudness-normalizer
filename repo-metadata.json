@@ -1,0 +1,12 @@
+{
+  "description": "Broadcast audio loudness compliance automation tool adhering to EBU R128 (-23 LUFS) and web standards",
+  "topics": [
+    "ebu-r128",
+    "loudness-normalization",
+    "ffmpeg",
+    "broadcast-audio",
+    "audio-engineering",
+    "lufs",
+    "true-peak"
+  ]
+}
