@@ -3,10 +3,10 @@
 > **Topics:** `ebu-r128` `loudness-normalization` `ffmpeg` `broadcast-audio` `audio-engineering` `lufs` `true-peak`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/audio-loudness-normalizer/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/audio-loudness-normalizer/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Standard: EBU R128](https://img.shields.io/badge/Standard-EBU%20R128%20%7C%20ITU%20BS.1770-brightgreen.svg)](https://github.com/MobileConduit)
-[![CI/CD Pipeline](https://github.com/MobileConduit/audio-loudness-normalizer/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/audio-loudness-normalizer/actions)
+[![Standard: EBU R128](https://img.shields.io/badge/Standard-EBU%20R128%20%7C%20ITU%20BS.1770-brightgreen.svg)](https://github.com/shadialhasan)
+[![CI/CD Pipeline](https://github.com/shadialhasan/audio-loudness-normalizer/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/audio-loudness-normalizer/actions)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-libebur128-red.svg)](https://ffmpeg.org)
 
 Broadcast automation utility ensuring compliance with international broadcast loudness regulations (**EBU R128** at -23 LUFS, **ATSC A/85** at -24 LUFS, and **Web streaming standards** at -14 LUFS) with dynamic true-peak limiting.
@@ -87,7 +87,7 @@ cp .env.example .env
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/audio-loudness-normalizer.git
+git clone https://github.com/shadialhasan/audio-loudness-normalizer.git
 cd audio-loudness-normalizer
 pip install -r requirements.txt
 ```
@@ -149,7 +149,7 @@ python -m unittest discover -s tests -v
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
