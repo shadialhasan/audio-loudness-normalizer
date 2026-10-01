@@ -1,0 +1,1 @@
+# Requires FFmpeg with libebur128 support
