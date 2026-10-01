@@ -1,0 +1,8 @@
+{
+  "target_i": -23.0,
+  "target_tp": -1.0,
+  "target_lra": 7.0,
+  "sample_rate": 48000,
+  "preset": "ebu_r128",
+  "ffmpeg_path": "ffmpeg"
+}
